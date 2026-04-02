@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Pedro!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Jo%C3%A3o+Pedro!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -8,17 +8,19 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor em constante evolução, com foco em construir soluções práticas e bem estruturadas. Tenho experiência com desenvolvimento web e back-end, trabalhando com tecnologias como **TypeScript**, **Python**, **JavaScript** e **Java**.
+Oi! Sou o João Pedro, desenvolvedor apaixonado por código. Comecei com HTML básico e hoje trabalho com APIs em TypeScript, scripts em Python e projetos web — e ainda não me cansei de aprender.
 
-- 🎓 Estudando Desenvolvimento de Software
-- 🔭 Atualmente trabalhando em projetos de API e análise de dados
-- 🌱 Sempre aprendendo coisas novas
-- 💬 Me pergunte sobre **TypeScript**, **Python** ou **desenvolvimento web**
-- 📫 Contato: **jp3447601@gmail.com**
+Atualmente estou no curso de Desenvolvimento de Software e gosto de transformar ideias em coisas que realmente funcionam.
+
+- 🔧 Back-end com **TypeScript** e **Node.js**
+- 📊 Análise de dados com **Python**
+- 🌐 Front-end com **JavaScript**, **HTML** e **CSS**
+- ☕ Java nas aulas, Python nas madrugadas
+- 📫 jp3447601@gmail.com
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stack
 
 <div align="center">
 
@@ -36,7 +38,7 @@ Sou um desenvolvedor em constante evolução, com foco em construir soluções p
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -53,7 +55,7 @@ Sou um desenvolvedor em constante evolução, com foco em construir soluções p
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos que valem a pena ver
 
 <div align="center">
 
@@ -64,7 +66,7 @@ Sou um desenvolvedor em constante evolução, com foco em construir soluções p
 
 ---
 
-## 🌐 Onde me encontrar
+## 📬 Me manda uma mensagem
 
 <div align="center">
 
@@ -78,6 +80,8 @@ Sou um desenvolvedor em constante evolução, com foco em construir soluções p
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=JooaoPedro15&color=6E40C9&style=flat-square&la
+<sub>Feito com ☕ e muito <code>console.log</code></sub>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=JooaoPedro15&color=6E40C9&style=flat-square&label=Visitantes)
 
 </div>
