@@ -74,13 +74,3 @@ A maioria dos projetos que faço nasce de necessidades reais — ferramentas que
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JooaoPedro15)
 
 </div>
-
----
-
-<div align="center">
-
-<sub>Feito com ☕ e muito <code>console.log</code></sub>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=JooaoPedro15&color=6E40C9&style=flat-square&label=Visitantes)
-
-</div>
