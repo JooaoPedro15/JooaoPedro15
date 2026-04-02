@@ -15,8 +15,7 @@ A maioria dos projetos que faço nasce de necessidades reais — ferramentas que
 - 🎓 CC na PUC Minas — 3º semestre
 - 🔧 Back-end com **TypeScript** e **Node.js**
 - 🐍 Automações e scripts com **Python**
-- 🎮 Criador de conteúdo de games no YouTube nas horas vagas
-- 📫 jp3447601@gmail.com
+- 📫 joaopedrocostaesilva15@gmail.com
 
 ---
 
@@ -70,8 +69,8 @@ A maioria dos projetos que faço nasce de necessidades reais — ferramentas que
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO-AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jp3447601@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-costa-e-silva-41768922b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrocostaesilva15@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JooaoPedro15)
 
 </div>
