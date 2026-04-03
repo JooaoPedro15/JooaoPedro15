@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Jo%C3%A3o+Pedro!+%F0%9F%91%8B;Dev+Back-End+em+forma%C3%A7%C3%A3o;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Jo%C3%A3o+Pedro!+%F0%9F%91%8B;Dev+Back-End+em+forma%C3%A7%C3%A3o" alt="Typing SVG" />
 
 </div>
 
@@ -34,23 +34,6 @@ A maioria dos projetos que faço nasce de necessidades reais — ferramentas que
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JooaoPedro15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JooaoPedro15&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JooaoPedro15&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
