@@ -8,12 +8,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de Ciência da Computação na PUC Minas e desenvolvedor back-end em formação. Meu foco é TypeScript com Node.js, mas Python entra bastante quando preciso de velocidade pra resolver alguma coisa.
-
-A maioria dos projetos que faço nasce de necessidades reais — ferramentas que eu mesmo queria ter. Sou MEI e estou trabalhando em algumas coisas que devem aparecer por aqui em breve.
+Estudante de Ciência da Computação na PUC Minas
 
 - 🎓 CC na PUC Minas — 3º semestre
 - 🔧 Back-end com **TypeScript** e **Node.js**
+- ☕ Back-end e sistemas com **Java**
 - 🐍 Automações e scripts com **Python**
 - 📫 joaopedrocostaesilva15@gmail.com
 
