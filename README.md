@@ -60,10 +60,3 @@ A maioria dos projetos que faço nasce de necessidades reais — ferramentas que
 
 </div>
 
----
-
-<div align="center">
-
-<sub>Feito com ☕ e muito <code>console.log</code></sub>
-
-</div>
