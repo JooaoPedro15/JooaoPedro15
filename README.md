@@ -1,61 +1,71 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Jo%C3%A3o+Pedro!+%F0%9F%91%8B;Dev+Back-End+em+forma%C3%A7%C3%A3o" alt="Typing SVG" />
+# João Pedro Costa e Silva
+
+### Estudante de Ciência da Computação | Backend Developer
+
+Desenvolvimento backend com foco em Java, TypeScript, Node.js, APIs REST, bancos de dados e estruturas de dados.
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre
 
-Estudante de Ciência da Computação na PUC Minas
+Sou estudante de Ciência da Computação na PUC Minas, atualmente no 3º semestre, com foco em desenvolvimento backend e fundamentos de computação.
 
-- 🎓 CC na PUC Minas — 3º semestre
-- 🔧 Back-end com **TypeScript** e **Node.js**
-- ☕ Back-end e sistemas com **Java**
-- 🐍 Automações e scripts com **Python**
-- 📫 joaopedrocostaesilva15@gmail.com
+Tenho desenvolvido projetos práticos utilizando Java, TypeScript, Node.js, Express, SQL e PostgreSQL. Meu objetivo é construir uma base sólida em APIs REST, banco de dados, organização de projetos, estruturas de dados, programação orientada a objetos e boas práticas de desenvolvimento.
+
+Também tenho experiência com criação de conteúdo digital, o que me ajudou a desenvolver habilidades com análise de métricas, comunicação, consistência e tomada de decisão baseada em dados.
 
 ---
 
-## 🛠️ Stack
+## Foco atual
 
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+- Desenvolvimento backend com Java, TypeScript e Node.js
+- APIs REST com Express
+- Banco de dados SQL e PostgreSQL
+- Estruturas de dados e algoritmos
+- Programação Orientada a Objetos
+- Organização de projetos em camadas
+- Git, GitHub e documentação técnica
 
 ---
 
-## 🚀 Projetos em andamento
+## Tecnologias
 
-<div align="center">
-
-[![devfinance-api](https://github-readme-stats.vercel.app/api/pin/?username=JooaoPedro15&repo=devfinance-api&theme=tokyonight&hide_border=true)](https://github.com/JooaoPedro15/devfinance-api)
-[![game-trend-analyzer](https://github-readme-stats.vercel.app/api/pin/?username=JooaoPedro15&repo=game-trend-analyzer&theme=tokyonight&hide_border=true)](https://github.com/JooaoPedro15/game-trend-analyzer)
-
-</div>
+**Linguagens:** Java, TypeScript, JavaScript, Python, C, C++  
+**Backend:** Node.js, Express, APIs REST  
+**Banco de dados:** SQL, PostgreSQL  
+**Ferramentas:** Git, GitHub, VS Code  
+**Fundamentos:** Estruturas de Dados, Algoritmos, Programação Orientada a Objetos
 
 ---
 
-## 📬 Contato
+## Projetos em destaque
 
-<div align="center">
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Mini Redis em Java](https://github.com/JooaoPedro15/mini-redis-java) | Banco de dados em memória inspirado no Redis, desenvolvido para estudar armazenamento chave-valor, estruturas de dados, comandos básicos, TTL e persistência simples. | Java, Estruturas de Dados, POO |
+| [DevFinance API](https://github.com/JooaoPedro15/devfinance-api) | API REST para controle financeiro pessoal, com cadastro e listagem de transações, validação de dados e resumo financeiro. | TypeScript, Node.js, Express, Zod |
+| Careca Studio | Plataforma em desenvolvimento voltada para organização de processos, análise de tendências, métricas de conteúdo e apoio à produção digital. Repositório privado no momento. | TypeScript, Node.js, Dados |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-costa-e-silva-41768922b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrocostaesilva15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JooaoPedro15)
+---
 
-</div>
+## Em desenvolvimento
 
+Atualmente estou aprofundando meus estudos em backend através de projetos práticos, principalmente:
+
+- Implementação de um Mini Redis em Java
+- APIs REST com TypeScript, Node.js e Express
+- Projetos com banco de dados relacional
+- Estruturas de dados aplicadas em sistemas reais
+- Ferramentas para automação, análise de dados e métricas
+
+---
+
+## Contato
+
+- LinkedIn: [João Pedro Costa e Silva](https://www.linkedin.com/in/jo%C3%A3o-pedro-costa-e-silva-41768922b/)
+- Email: [joaopedrocostaesilva15@gmail.com](mailto:joaopedrocostaesilva15@gmail.com)
+- GitHub: [JooaoPedro15](https://github.com/JooaoPedro15)
