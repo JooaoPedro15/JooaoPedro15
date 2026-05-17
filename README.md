@@ -38,13 +38,16 @@ Também tenho experiência com criação de conteúdo digital, o que me ajudou a
 
 ## Tecnologias
 
-- Linguagens: Java, TypeScript, Python, C, C++  
-- Backend: Node.js, APIs REST  
-- Banco de dados: SQL, PostgreSQL  
-- Ferramentas: Git, GitHub, VS Code  
-- Fundamentos: Estruturas de Dados, Algoritmos, Programação Orientada a Objetos
+<p>
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,postgresql,python,git,github,vscode,c,cpp" />
+</p>
+
 ---
 
+### Fundamentos
+- Estruturas de Dados
+- Algoritmos
+- Programação Orientada a Objetos
 ## Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
