@@ -6,6 +6,10 @@
 
 Desenvolvimento backend com foco em Java, TypeScript, Node.js, APIs REST, bancos de dados e estruturas de dados.
 
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,ts,nodejs,express,postgres,python,c,cpp,git,github" />
+
 </div>
 
 ---
@@ -47,8 +51,8 @@ Também tenho experiência com criação de conteúdo digital, o que me ajudou a
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [Mini Redis em Java](https://github.com/JooaoPedro15/mini-redis-java) | Banco de dados em memória inspirado no Redis, desenvolvido para estudar armazenamento chave-valor, estruturas de dados, comandos básicos, TTL e persistência simples. | Java, Estruturas de Dados, POO |
-| [DevFinance API](https://github.com/JooaoPedro15/devfinance-api) | API REST para controle financeiro pessoal, com cadastro e listagem de transações, validação de dados e resumo financeiro. | TypeScript, Node.js, Express, Zod |
 | Careca Studio | Plataforma em desenvolvimento voltada para organização de processos, análise de tendências, métricas de conteúdo e apoio à produção digital. Repositório privado no momento. | TypeScript, Node.js, Dados |
+| [DevFinance API](https://github.com/JooaoPedro15/devfinance-api) | API REST para controle financeiro pessoal, com cadastro e listagem de transações, validação de dados e resumo financeiro. | TypeScript, Node.js, Express, Zod |
 
 ---
 
@@ -66,6 +70,10 @@ Atualmente estou aprofundando meus estudos em backend através de projetos prát
 
 ## Contato
 
-- LinkedIn: [João Pedro Costa e Silva](https://www.linkedin.com/in/jo%C3%A3o-pedro-costa-e-silva-41768922b/)
-- Email: [joaopedrocostaesilva15@gmail.com](mailto:joaopedrocostaesilva15@gmail.com)
-- GitHub: [JooaoPedro15](https://github.com/JooaoPedro15)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-costa-e-silva-41768922b/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrocostaesilva15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JooaoPedro15)
+
+</div>
