@@ -8,7 +8,7 @@ Desenvolvimento backend com foco em Java, TypeScript, Node.js, APIs REST, bancos
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,ts,nodejs,express,postgres,python,c,cpp,git,github" />
+<img src="https://skillicons.dev/icons?i=java,ts,nodejs,postgres,python" />
 
 </div>
 
@@ -38,12 +38,11 @@ Também tenho experiência com criação de conteúdo digital, o que me ajudou a
 
 ## Tecnologias
 
-**Linguagens:** Java, TypeScript, JavaScript, Python, C, C++  
-**Backend:** Node.js, Express, APIs REST  
+**Linguagens:** Java, TypeScript, Python, C, C++  
+**Backend:** Node.js, APIs REST  
 **Banco de dados:** SQL, PostgreSQL  
 **Ferramentas:** Git, GitHub, VS Code  
 **Fundamentos:** Estruturas de Dados, Algoritmos, Programação Orientada a Objetos
-
 ---
 
 ## Projetos em destaque
@@ -51,7 +50,8 @@ Também tenho experiência com criação de conteúdo digital, o que me ajudou a
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [Mini Redis em Java](https://github.com/JooaoPedro15/mini-redis-java) | Banco de dados em memória inspirado no Redis, desenvolvido para estudar armazenamento chave-valor, estruturas de dados, comandos básicos, TTL e persistência simples. | Java, Estruturas de Dados, POO |
-| Careca Studio | Plataforma em desenvolvimento voltada para organização de processos, análise de tendências, métricas de conteúdo e apoio à produção digital. Repositório privado no momento. | TypeScript, Node.js, Dados |
+| Careca Studio | 
+Hub desktop modular para criadores de conteúdo. Reúne legendagem automática (SubtitleForge), análise de tendências (Game Scout, React Scout), métricas de canais e automações de produção em uma única interface. Construído com Electron, React, TypeScript e Vite. Repositório privado durante o desenvolvimento inicial. | TypeScript, Python, Node.js, Dados |
 | [DevFinance API](https://github.com/JooaoPedro15/devfinance-api) | API REST para controle financeiro pessoal, com cadastro e listagem de transações, validação de dados e resumo financeiro. | TypeScript, Node.js, Express, Zod |
 
 ---
