@@ -50,11 +50,15 @@ Também tenho experiência com criação de conteúdo digital, o que me ajudou a
 - Programação Orientada a Objetos
 ## Projetos em destaque
 
+## Projetos em destaque
+
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Mini Redis em Java](https://github.com/JooaoPedro15/mini-redis-java) | Banco de dados em memória inspirado no Redis, desenvolvido para estudar armazenamento chave-valor, estruturas de dados, comandos básicos, TTL e persistência simples. | Java, Estruturas de Dados, POO |
-| [Careca Studio](https://github.com/JooaoPedro15/Careca-Studio) | Hub desktop modular para criadores de conteúdo. Reúne legendagem automática (SubtitleForge), análise de tendências (Game Scout, React Scout), métricas de canais e automações de produção em uma única interface. Construído com Electron, React, TypeScript e Vite. Repositório privado durante o desenvolvimento inicial. | TypeScript, Python, Node.js, Dados |
-| [DevFinance API](https://github.com/JooaoPedro15/devfinance-api) | API REST para controle financeiro pessoal, com cadastro e listagem de transações, validação de dados e resumo financeiro. | TypeScript, Node.js, Express, Zod |
+| [Digitalize](https://github.com/JooaoPedro15/Digitalize) | Plataforma web para ajudar microempreendedores a melhorarem sua presença online. Atuei principalmente no backend em Java com Spark, criação de rotas REST, integração com PostgreSQL, modelagem do banco de dados e integração com Azure OpenAI para geração do Guia de Postagem. | Java, Spark, PostgreSQL, SQL, Azure OpenAI, APIs REST |
+| [Careca Studio](https://github.com/JooaoPedro15/Careca-Studio) | Aplicativo desktop modular para centralizar ferramentas de produção de conteúdo, automação com IA, legendagem, análise de mídia e suporte comercial para o canal Roberto Careca. | Electron, React, TypeScript, Vite, Python, IA |
+| [DevFinance API](https://github.com/JooaoPedro15/devfinance-api) | API REST para controle financeiro pessoal, com cadastro, listagem, atualização e remoção de transações, validação de dados, persistência local e resumo financeiro. | TypeScript, Node.js, Express, Zod, Testes |
+| [Mini Redis em Java](https://github.com/JooaoPedro15/mini-redis-java) | Banco de dados em memória inspirado no Redis, desenvolvido para estudar armazenamento chave-valor, hash table manual, tratamento de colisões, nós encadeados e fundamentos de estruturas de dados. | Java, Maven, POO, Estruturas de Dados |
+| [Game Trend Recommender](https://github.com/JooaoPedro15/game-trend-recommender) | MVP local para recomendar jogos com potencial para vídeos curtos, usando dados em CSV, detecção de jogos por título/comentários e ranking baseado em tendência, fit com o canal, descoberta e saturação. | Python, CSV, Algoritmos, Análise de Dados, Testes |
 
 ---
 
