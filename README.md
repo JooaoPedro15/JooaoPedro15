@@ -48,7 +48,7 @@ Também tenho experiência com criação de conteúdo digital, o que me ajudou a
 - Estruturas de Dados
 - Algoritmos
 - Programação Orientada a Objetos
-## Projetos em destaque
+
 
 ## Projetos em destaque
 
